@@ -1,0 +1,11 @@
+savefile_progress_description = "Statistiques des joueurs et progression du jeu.",--Player statistics and game progression.
+savefile_game_title = "JOUR DE PAYE 2",--PAYDAY 2
+savefile_autosave = "$TEXT_WITH_DATE; - SAUVEGARDE AUTOMATIQUE",--$TEXT_WITH_DATE; - AUTO SAVE
+savefile_removing = "Suppriment...",--Removing...
+savefile_loading = "Chargé...",--Loading...
+savefile = "$TEXT; - $DATE;",--$TEXT; - $DATE;
+savefile_empty = "[New Save File]",--[New Save File]
+savefile_setting_description = "Utilisateur specifique des paramètres de partie",--User specific game settings.
+savefile_progress = "Progression de joueur: Version $VERSION; ou plus est requise.",--Player progression: Version $VERSION; or higher is required.
+savefile_setting = "Partie paramétrée: Version $VERSION; ou plus est requise.",--Game settings: Version $VERSION; or higher is required.
+savefile_saving = "Sauvé...",--Saving...
